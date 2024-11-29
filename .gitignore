@@ -1,0 +1,6 @@
+.env
+Pipfile
+Pipfile.lock
+.DS_Store
+NIPS-2017-attention-is-all-you-need-Paper.pdf
+faiss_index_react
